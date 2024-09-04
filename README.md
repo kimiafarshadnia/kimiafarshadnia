@@ -1,23 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width='150'/>
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kimiafarshadnia/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/kimia.farshadnia">
-      <img src="https://img.shields.io/badge/instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://komarev.com/ghpvc/?username=kimiafarshadnia">
-      <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-    </a>
-  </div>
-
   <div>
     <h1>
       hey there
