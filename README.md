@@ -26,9 +26,6 @@
   </div>
 </div>
 
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiafarshadnia&theme=tokyonight-duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
-
 ###  Programming Languages :
 
 <div>
