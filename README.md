@@ -28,4 +28,5 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=materialUI&logoColor=white" />
 </div>
