@@ -23,10 +23,11 @@
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=materialdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/materialUI-000000?style=for-the-badge&logo=materialUI&logoColor=white" />
 </div>
