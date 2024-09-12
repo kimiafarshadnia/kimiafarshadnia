@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query">
   <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
 </p>
 
@@ -42,6 +43,19 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<h3>DevOps & Deployment:</h3>
+<p>
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white" alt="Azure DevOps">
+</p>
+
+<h3>Tools & API Management:</h3>
+<p>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
+</p>
+
 ---
 
 <h2>📚 Experience</h2>
@@ -53,6 +67,8 @@
   <li>Tailored UI using <strong>Tailwind CSS</strong>, <strong>Material UI</strong>, and <strong>Ant Design</strong>.</li>
   <li>API integration with <strong>Axios</strong> and <strong>React Query</strong>.</li>
   <li>Version control with <strong>Git/GitHub</strong>.</li>
+  <li>Automated testing and API documentation using <strong>Postman</strong> and <strong>Swagger</strong>.</li>
+  <li>Deployments on <strong>Vercel</strong> and CI/CD with <strong>Azure DevOps</strong>.</li>
 </ul>
 
 ---
